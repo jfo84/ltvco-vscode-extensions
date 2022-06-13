@@ -2,6 +2,7 @@
     "name": "ltvco-vscode-extensions",
     "displayName": "ltvco-vscode-extensions",
     "description": "",
+    "publisher": "jfo84",
     "version": "0.0.1",
     "repository": {
         "type": "git",
