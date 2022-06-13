@@ -1,6 +1,6 @@
 {
-    "name": "ltvco-default",
-    "displayName": "ltvco-default",
+    "name": "ltvco-vscode-extensions",
+    "displayName": "ltvco-vscode-extensions",
     "description": "",
     "version": "0.0.1",
     "engines": {
