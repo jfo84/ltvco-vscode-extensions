@@ -3,27 +3,31 @@
     "displayName": "ltvco-vscode-extensions",
     "description": "",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jfo84/ltvco-vscode-extensions.git"
+    },
     "engines": {
         "vscode": "^1.68.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "dbaeumer.vscode-eslint", 
-        "eamodio.gitlens", 
-        "EditorConfig.EditorConfig", 
-        "embertooling.prettier-for-handlebars-vscode", 
-        "esbenp.prettier-vscode", 
-        "formulahendry.auto-close-tag", 
-        "formulahendry.auto-rename-tag", 
-        "josa.ember-related-files", 
-        "lifeart.vscode-ember-unstable", 
-        "lifeart.vscode-glimmer-syntax", 
-        "ms-azuretools.vscode-docker", 
-        "ms-vscode-remote.remote-containers", 
-        "phanitejakomaravolu.EmberES6Snippets", 
-        "rebornix.ruby", 
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "embertooling.prettier-for-handlebars-vscode",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "josa.ember-related-files",
+        "lifeart.vscode-ember-unstable",
+        "lifeart.vscode-glimmer-syntax",
+        "ms-azuretools.vscode-docker",
+        "ms-vscode-remote.remote-containers",
+        "phanitejakomaravolu.EmberES6Snippets",
+        "rebornix.ruby",
         "wingrunr21.vscode-ruby"
     ]
 }
